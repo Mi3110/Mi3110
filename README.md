@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is MUDALIAR SURESH MIHIR I'm a CSE-AI&ML STUDENT from Andhra Pradesh</p>
+<p align="left">My name is MUDALIAR SURESH MIHIR I'm a CSE-AI&ML STUDENT from Pragati Engineering College,Andhra Pradesh.</p>
 
 ###
 
